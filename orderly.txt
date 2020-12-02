@@ -1,0 +1,37 @@
+Due to the pandemic, most families have had to adapt to being at home a lot more than they used to, and making their house a home/office/gym/school...you name it! Clutter and lack of order at home can lead to a sort of visual stress that adds to the already underlying difficulties of living in a pandemic. 
+
+Orderly is a social media platform and community for sharing home and office organizational ideas. It is a passion project for me as I LOVE home organization and also believe that people could benefit from seeing how others tackle tricky organizational challenges during this unique time. Members can share their home or office projects, gather inspiration from others, and ask for advice on how to meet different needs (e.g. downsizing to a smaller house or creating a multi-use space in your garage). 
+
+The Orderly App will consist of 6 pages:
+
+Templates:
+1. Landing page explaining app with link to register or log in
+2. Registration page
+3. Login page
+4. Home page
+	- Small profile (user's name, picture)
+	- Functionality to make a post
+		- Include description of project and picture
+		- Can choose to assign it a category it by clicking a category upon submission (e.g. closet, toys, office)
+	- News feed (displays posts from other users)
+		- Users can like or comment on each other's posts and save posts to their own personal wall
+		- Can go to another user's Personal Wall by clicking on the name on the post
+		- Can choose to filter what you see on news feed based on a specific category (e.g. user only wants to browse recent posts on home gyms)
+5. Personal Wall
+	- Small profile (user's name, picture)
+	- Displays all posts from user, including any posts that user has saved from other members
+	- Members can view each other's personal walls
+6. Profile Page
+	- More detailed view of user profile (name, picture, bio)
+	- Members can view each other's profile pages
+	- Users can edit their own profile page
+
+For future development:
+- Following users
+- Blocking users
+- Blocking posts
+- Self-detection of categories (instead of having user choose the project category).
+	- For example, have the app search for key words and group posts into similar categories (e.g. garage space)
+- Private messages between users
+
+
