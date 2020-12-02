@@ -24,7 +24,7 @@ The Orderly App will consist of 7 templates:
 7. Profile Page
 	- More detailed view of user profile (name, picture, bio)
 	- Members can view each other's profile pages
-	- Users can edit their own profile page
+	- Users can edit their own profile page (existing fields will pre-populate previously submitted info, except for password)
 
 For future development:
 - Following users
@@ -34,5 +34,6 @@ For future development:
 	- For example, have the app search for key words and group posts into similar categories (e.g. garage space)
 - Private messages between users
 - Hide comments under posts until user clicks on them (will make the page look cleaner / less busy)
+- Link to view who liked your posts (right now there's only a likes count)
 
 
